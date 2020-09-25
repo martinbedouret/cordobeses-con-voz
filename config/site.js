@@ -7,10 +7,11 @@ module.exports = {
     "cordobés del año",
   ],
   description: "Cordobeses con voz.",
-  author: "Martin Bedouret",
-  trackingId: "UA-",
-  defaultLang: "es",
+  author: "thundermiracle",
+  trackingId: "UA-119418003-5",
+  defaultLang: "en",
   langTextMap: {
-    en: "Español",
+    en: "English",
+    ja: "日本語",
   },
 };
